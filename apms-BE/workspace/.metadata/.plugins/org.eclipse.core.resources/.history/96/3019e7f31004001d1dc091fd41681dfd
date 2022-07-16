@@ -1,0 +1,14 @@
+package com.apms.home.mapper;
+
+import org.apache.ibatis.annotations.Mapper;
+
+@Mapper
+public interface UserMapper {
+	
+	List<UserVO> userList();
+    UserVO fetchUserByID(int id);
+    void updateUser(UserVO user);
+    void insertUser(UserVO user);
+    void deleteUser(int id);
+
+}

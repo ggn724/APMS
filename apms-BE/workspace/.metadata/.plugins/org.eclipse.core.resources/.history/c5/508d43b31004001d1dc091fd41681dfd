@@ -1,0 +1,5 @@
+package com.apms.home.vo;
+
+public class UserVO {
+
+}
