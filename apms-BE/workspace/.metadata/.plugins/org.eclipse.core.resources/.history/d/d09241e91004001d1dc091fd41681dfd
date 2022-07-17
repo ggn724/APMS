@@ -1,5 +1,0 @@
-package com.apms.home.mapper;
-
-public interface UserMapper {
-
-}

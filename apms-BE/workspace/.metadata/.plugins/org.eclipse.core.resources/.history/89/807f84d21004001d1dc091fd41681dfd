@@ -1,8 +1,0 @@
-package com.apms.home.vo;
-
-import lombok.Data;
-
-@Data
-public class UserVO {
-
-}

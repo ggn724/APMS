@@ -1,7 +1,0 @@
-package com.apms.home.config;
-
-import javax.servlet.Filter;
-
-public class CORSFilter implements Filter{
-
-}
