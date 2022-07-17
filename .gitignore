@@ -45,3 +45,4 @@ yarn-debug.log*
 yarn-error.log*
 
 apms-BE/sts-4.15.1.RELEASE/
+apms-BE/workspace/.metadata/
